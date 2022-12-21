@@ -1,0 +1,10 @@
+D:\Projects\ZalirunExtentions\ZalirunExtentions\obj\Release\netstandard2.0\ZalirunExtentions.csproj.AssemblyReference.cache
+D:\Projects\ZalirunExtentions\ZalirunExtentions\obj\Release\netstandard2.0\ZalirunExtentions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ZalirunExtentions\ZalirunExtentions\obj\Release\netstandard2.0\ZalirunExtentions.AssemblyInfoInputs.cache
+D:\Projects\ZalirunExtentions\ZalirunExtentions\obj\Release\netstandard2.0\ZalirunExtentions.AssemblyInfo.cs
+D:\Projects\ZalirunExtentions\ZalirunExtentions\obj\Release\netstandard2.0\ZalirunExtentions.csproj.CoreCompileInputs.cache
+D:\Projects\ZalirunExtentions\ZalirunExtentions\bin\Release\netstandard2.0\ZalirunExtentions.deps.json
+D:\Projects\ZalirunExtentions\ZalirunExtentions\bin\Release\netstandard2.0\ZalirunExtentions.dll
+D:\Projects\ZalirunExtentions\ZalirunExtentions\bin\Release\netstandard2.0\ZalirunExtentions.pdb
+D:\Projects\ZalirunExtentions\ZalirunExtentions\obj\Release\netstandard2.0\ZalirunExtentions.dll
+D:\Projects\ZalirunExtentions\ZalirunExtentions\obj\Release\netstandard2.0\ZalirunExtentions.pdb
